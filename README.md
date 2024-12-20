@@ -59,8 +59,9 @@
 ## ✍️ Connect with Me
 
 - **LinkedIn**: [https://www.linkedin.com/in/buddhika-fernando-73606131a/](#)
-- **Twitter**: [@aloka_f](https://twitter.com/aloka_f?lang=en)
+- **Facebook**: (https://www.facebook.com/profile.php?id=100075289392697)
 - **Email**: buddhikafernando19@gmail.com
+- **Contact**: +94 764267067
 
 ---
 
