@@ -1,16 +1,16 @@
 # Hi there 👋 Welcome to My GitHub Profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=0e75b6&style=flat)  
-![GitHub Followers](https://img.shields.io/github/followers/YourUsername?label=Followers&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/YourUsername?label=Total%20Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Alokafernando&label=Profile%20Views&color=0e75b6&style=flat)  
+![GitHub Followers](https://img.shields.io/github/followers/Alokafernando?label=Followers&style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/Alokafernando?label=Total%20Stars&style=social)
 
 ---
 
 ## 🌈 About Me
 
-- **👋 Hi, I’m [Your Name]**
+- **👋 Hi, I’m Aloka Fernando**
 - 🌐 Passionate about **coding**, **open-source contributions**, and **building impactful projects**.
-- ✨ Currently exploring **[your field of interest, e.g., AI/ML, Web Development, Blockchain]**.
+- ✨ Currently exploring **Natural Language Processing (NLP)**.
 - 🌍 Open to collaborate on **innovative and challenging projects**.
 
 ---
@@ -20,15 +20,15 @@
 <table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alokafernando&show_icons=true&theme=radical" alt="GitHub Stats">
   </td>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alokafernando&layout=compact&theme=radical" alt="Top Languages">
   </td>
 </tr>
 </table>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Alokafernando&theme=radical&no-frame=true&column=4)
 
 ---
 
@@ -36,9 +36,9 @@
 
 | Project Name | Description | Link |
 | ------------ | ----------- | ---- |
-| **Project 1** | A brief description of the project. | [View Project](#) |
-| **Project 2** | Another brief description of the project. | [View Project](#) |
-| **Project 3** | Something awesome here! | [View Project](#) |
+| **XNLG** | Contributed to the XNLG project, focusing on cross-lingual natural language generation. | [View Project](https://github.com/CZWin32768/XNLG/issues) |
+| **OpenNMT-py-v1.2** | Forked and worked on OpenNMT-py, an open-source neural machine translation framework in PyTorch. | [View Project](https://github.com/Alokafernando/OpenNMT-py-v1.2) |
+| **Fairseq-v0.10.2** | Forked Facebook's AI Research Sequence-to-Sequence Toolkit written in Python. | [View Project](https://github.com/Alokafernando/fairseq-v0.10.2) |
 
 ---
 
@@ -54,9 +54,8 @@
 
 ## ✍️ Connect with Me
 
-- **Portfolio**: [YourWebsite.com](#)
-- **LinkedIn**: [YourLinkedIn](#)
-- **Twitter**: [YourTwitter](#)
+- **LinkedIn**: [Your LinkedIn Profile](#)
+- **Twitter**: [@aloka_f](https://twitter.com/aloka_f?lang=en)
 - **Email**: youremail@example.com
 
 ---
