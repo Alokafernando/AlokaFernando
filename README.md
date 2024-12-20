@@ -58,8 +58,8 @@
 
 ## ✍️ Connect with Me
 
-- **LinkedIn**: [https://www.linkedin.com/in/buddhika-fernando-73606131a/](#)
-- **Facebook**: (https://www.facebook.com/profile.php?id=100075289392697)
+- **LinkedIn**: https://www.linkedin.com/in/buddhika-fernando-73606131a
+- **Facebook**: https://www.facebook.com/profile.php?id=100075289392697
 - **Email**: buddhikafernando19@gmail.com
 - **Contact**: +94 764267067
 
