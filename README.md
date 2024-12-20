@@ -4,7 +4,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/Alokafernando?label=Followers&style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/Alokafernando?label=Total%20Stars&style=social)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=219ebc&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Aloka+Fernando;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=219ebc&center=true&vCenter=true&random=false&width=435&lines=Hey,+I'm+Aloka+Fernando;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
 
 
 ---
