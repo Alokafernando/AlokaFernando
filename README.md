@@ -55,7 +55,7 @@
 
 ## ✍️ Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: [https://www.linkedin.com/in/buddhika-fernando-73606131a/](#)
 - **Twitter**: [@aloka_f](https://twitter.com/aloka_f?lang=en)
 - **Email**: buddhikafernando19@gmail.com
 
