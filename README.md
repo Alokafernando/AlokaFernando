@@ -11,7 +11,7 @@
 ## 🌈 About Me
 
 - **👋 Hi, I’m Aloka Fernando**
-- - 👀 I’m interested in **HTML**, **CSS**, **JavaScript**, **Java**, **Web Development**, and more.
+- 👀 I’m interested in **HTML**, **CSS**, **JavaScript**, **Java**, **Web Development**, and more.
 - 🌐 Passionate about **coding**, **open-source contributions**, and **building impactful projects**.
 - ✨ Currently exploring **Natural Language Processing (NLP)**.
 - 🌍 Open to collaborate on **innovative and challenging projects**.
