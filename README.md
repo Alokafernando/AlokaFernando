@@ -61,7 +61,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075289392697)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buddhikafernando19@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94764267067)
-[![Call +94 764267067](https://img.shields.io/badge/Call%20%2B94%20764267067-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94764267067)
+[![Chat with me on WhatsApp](https://img.shields.io/badge/Chat%20with%20me%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94764267067)
+
 
 
 ---
