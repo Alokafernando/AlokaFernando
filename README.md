@@ -10,7 +10,7 @@
 
 ## 🌈 About Me
 
-- **👋 Hi, I’m Aloka Fernando**
+- 👋 Hi, I’m **Aloka Fernando**
 - 👦🏻 I'm 20 years old
 - 👀 I’m interested in **HTML**, **CSS**, **JavaScript**, **Java**, **Web Development**, and more.
 
