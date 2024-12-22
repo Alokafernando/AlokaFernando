@@ -33,16 +33,6 @@
 
 ---
 
-## 🔎 Featured Projects
-
-| Project Name | Description | Link |
-| ------------ | ----------- | ---- |
-| **XNLG** | Contributed to the XNLG project, focusing on cross-lingual natural language generation. | [View Project](https://github.com/CZWin32768/XNLG/issues) |
-| **OpenNMT-py-v1.2** | Forked and worked on OpenNMT-py, an open-source neural machine translation framework in PyTorch. | [View Project](https://github.com/Alokafernando/OpenNMT-py-v1.2) |
-| **Fairseq-v0.10.2** | Forked Facebook's AI Research Sequence-to-Sequence Toolkit written in Python. | [View Project](https://github.com/Alokafernando/fairseq-v0.10.2) |
-
----
-
 ## ✨ Skills
 
 **Programming Languages:**  
