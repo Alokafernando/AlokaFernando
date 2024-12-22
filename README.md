@@ -29,8 +29,9 @@
 </tr>
 </table>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Alokafernando&theme=radical&no-frame=true&column=8)
+---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alokafernando)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## ✨ Skills
