@@ -31,7 +31,9 @@
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Alokafernando&theme=flat&no-frame=true&column=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Alokafernando&theme=radical&no-frame=true&column=8)
+
+
 
 ---
 
