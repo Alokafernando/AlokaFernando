@@ -30,7 +30,9 @@
 </table>
 
 ---
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Alokafernando&theme=radical&no-frame=true&column=8)
+
 ---
 
 ## ✨ Skills
@@ -52,11 +54,11 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94764267067)
 
 
-
 ---
 
 ## 🌟 Fun Fact
 
 *"The only way to do great work is to love what you do." — Steve Jobs*
+---
 
 ![Footer Animation](https://github.com/YourUsername/YourRepository/blob/main/footer_animation.gif)
