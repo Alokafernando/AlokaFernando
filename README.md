@@ -64,5 +64,4 @@
 *"The only way to do great work is to love what you do." — Steve Jobs*
 ---
 
-![Footer Animation](https://via.placeholder.com/1200x200?text=Thank+You+for+Visiting!)
-![Footer Animation](https://github.com/YourUsername/YourRepository/blob/main/footer_animation.gif)
+![Footer Animation](https://via.placeholder.com/1200x100?text=Thank+You+for+Visiting!)
