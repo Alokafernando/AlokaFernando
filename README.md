@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m **Aloka Fernando**
 - 👦🏻 I'm 20 years old
-- 👀 I’m interested in **HTML**, **CSS**, **JavaScript**, **Java**, **Web Development**, and more.
+- 👨‍💻  I’m interested in **HTML**, **CSS**, **JavaScript**, **Java**, **Web Development**, and more.
 
 ---
 
@@ -64,4 +64,5 @@
 *"The only way to do great work is to love what you do." — Steve Jobs*
 ---
 
+![Footer Animation](https://via.placeholder.com/1200x200?text=Thank+You+for+Visiting!)
 ![Footer Animation](https://github.com/YourUsername/YourRepository/blob/main/footer_animation.gif)
