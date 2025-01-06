@@ -5,7 +5,6 @@
 </div>
 
 
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alokafernando&label=Profile%20Views&color=0e75b6&style=flat)  
@@ -22,6 +21,8 @@
 - 👋 Hi, I’m **Aloka Fernando**
 - 👦🏻 I'm 20 years old
 - 👨‍💻  I’m interested in **HTML**, **CSS**, **JavaScript**, **Java**, **Web Development**, and more.
+- 🎓 I'm currently an Undergraduate Student, pursuing a degree in **Software Engineering**.
+- 🎮 In my free time, I enjoy **gaming**, **watching tech videos**, and exploring **DIY tech projects**.  
 
 ---
 
