@@ -59,10 +59,6 @@
 
 ---
 
-## 🌟 Fun Fact
-
-*"The only way to do great work is to love what you do." — Steve Jobs*
----
 
 <div align="center">
   <a href="https://git.io/typing-svg">
