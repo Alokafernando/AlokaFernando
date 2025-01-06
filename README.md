@@ -1,6 +1,8 @@
-
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=219ebc&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+the+my+github+profile.)]
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=E63946&width=435&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Feel+free+to+explore!;Don't+forget+to+star+my+projects!" alt="Typing SVG">
+  </a>
+</div>
 
 ---
 
