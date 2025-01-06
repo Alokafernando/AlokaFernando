@@ -1,4 +1,4 @@
-![Header](https://via.placeholder.com/1200x150?text=Welcome+to+My+GitHub+Profile)
+![Header](https://via.placeholder.com/1200x100?text=Welcome+to+My+GitHub+Profile)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alokafernando&label=Profile%20Views&color=0e75b6&style=flat)  
 ![GitHub Followers](https://img.shields.io/github/followers/Alokafernando?label=Followers&style=social)  
