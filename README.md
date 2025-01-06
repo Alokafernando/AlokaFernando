@@ -25,7 +25,9 @@
 - 🌐 I’m passionate about **Web Development**, **Software Engineering**, and **exploring new technologies**.
 - 🎓 I'm currently an Undergraduate Student, pursuing a degree in **Software Engineering**.
 - 🎮 In my free time, I enjoy **gaming**, **watching tech videos**, and exploring **DIY tech projects**.
-- 🚀 My goal is to become a Full Stack Developer and contribute to open-source projects. 
+- 🚀 My goal is to become a Full Stack Developer and contribute to open-source projects.
+
+---
 
 ---
 
