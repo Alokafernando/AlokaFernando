@@ -68,12 +68,5 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94764267067)
 
 
-
 ---
 
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F4A261&center=true&vCenter=true&width=500&lines=Thank+You+for+Visiting!;Come+Back+Soon!" alt="Typing SVG">
-  </a>
-</div>
