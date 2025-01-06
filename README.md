@@ -64,5 +64,8 @@
 *"The only way to do great work is to love what you do." — Steve Jobs*
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F4A261&center=true&vCenter=true&width=500&lines=Thank+You+for+Visiting!;Come+Back+Soon!)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F4A261&center=true&vCenter=true&width=500&lines=Thank+You+for+Visiting!;Come+Back+Soon!" alt="Typing SVG">
+  </a>
+</div>
