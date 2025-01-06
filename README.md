@@ -64,4 +64,5 @@
 *"The only way to do great work is to love what you do." — Steve Jobs*
 ---
 
-![Footer Animation](https://via.placeholder.com/1200x100?text=Thank+You+for+Visiting!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F4A261&center=true&vCenter=true&width=500&lines=Thank+You+for+Visiting!;Come+Back+Soon!)](https://git.io/typing-svg)
+
