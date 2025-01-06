@@ -4,6 +4,13 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Feel+free+to+explore!;Don't+forget+to+star+my+projects!&color=E63946&color2=457B9D&color3=F4A261" alt="Typing SVG">
+  </a>
+</div>
+
+
 
 ---
 
