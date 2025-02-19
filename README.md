@@ -41,7 +41,6 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Alokafernando&theme=radical&no-frame=true&column=8)
 
 
-
 ---
 
 ## ✨ Tech Stack
@@ -62,8 +61,6 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate">
 </p>
-
-
 
 ---
 
