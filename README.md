@@ -110,6 +110,7 @@
 </div>
 
 <!-- Animated footer -->
+---
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651515ea00b7984ae412e814a1/images/wave.svg" width="100%">
   <p>Thanks for visiting my profile! Don't forget to star and follow ⭐</p>
