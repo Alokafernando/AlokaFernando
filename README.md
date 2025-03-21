@@ -103,11 +103,13 @@
   </a>
 </div>
 
-<!-- Footer with contribution snake -->
+<!-- Footer with contribution snake 
 <div align="center">
   <h3>Watch my contribution graph get eaten by the snake 🐍</h3>
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" />
+</div>-->
+
+
 
 <!-- Animated footer -->
 ---
