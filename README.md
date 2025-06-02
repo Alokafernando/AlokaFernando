@@ -128,6 +128,10 @@
 # 
 
 <div align="center">
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Aloka+Fernando;" alt="Typing SVG" />
+</div>
   
   <!-- Hero Section with Modern Typography -->
   <picture>
@@ -139,17 +143,10 @@
   
   <!-- Modern Style Badges -->
 <div style="margin: 20px 0;">
-  <img src="https://custom-icon-badges.demolab.com/badge/Sri%20Lanka-🇱🇰-blue?style=for-the-badge&logo=location&logoColor=white&labelColor=1E3A8A&color=3B82F6"
-       alt="Location"
-       style="margin-right: 25px;" />
-  
-  <img src="https://custom-icon-badges.demolab.com/badge/Age-20-black?style=for-the-badge&logo=person&logoColor=white&labelColor=111827&color=374151"
-       alt="Age"
-       style="margin-right: 25px;" />
-  
-  <img src="https://custom-icon-badges.demolab.com/badge/Focus-Full%20Stack-blue?style=for-the-badge&logo=stack&logoColor=white&labelColor=1E40AF&color=2563EB"
-       alt="Focus" />
-</div>
+    <img src="https://custom-icon-badges.demolab.com/badge/Sri%20Lanka-🇱🇰-blue?style=for-the-badge&logo=location&logoColor=white&labelColor=1E3A8A&color=3B82F6&margin-right=25px" alt="Location"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Age-20-black?style=for-the-badge&logo=person&logoColor=white&labelColor=111827&color=374151" alt="Age"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Focus-Full%20Stack-blue?style=for-the-badge&logo=stack&logoColor=white&labelColor=1E40AF&color=2563EB" alt="Focus"/>
+  </div>
 
 
 </div>
